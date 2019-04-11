@@ -14,7 +14,7 @@
 
 **Create ~/.local/share/themes if youu do not have it already. 
 
-**Icons in screnshots are the Newaita icons here:
+**Icons in screenshots are the Newaita icons here:
   https://github.com/cbrnix/Newaita
   
  
